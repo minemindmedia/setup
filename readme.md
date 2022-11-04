@@ -22,5 +22,7 @@
 
 * [Roots](https://roots.io)
 * [Tailwind CSS](https://tailwindcss.com)
-* [AlineJS](https://alpinejs.com)
+* [Flowbite](https://flowbite.com/)
+* [Flickity](https://flickity.metafizzy.co/)
+* [AlineJS](https://alpinejs.dev)
 * [Unlighthouse](https://github.com/harlan-zw/unlighthouse)
