@@ -24,5 +24,5 @@
 * [Tailwind CSS](https://tailwindcss.com)
 * [Flowbite](https://flowbite.com/)
 * [Flickity](https://flickity.metafizzy.co/)
-* [AlineJS](https://alpinejs.dev)
+* [AlpineJS](https://alpinejs.dev)
 * [Unlighthouse](https://github.com/harlan-zw/unlighthouse)
