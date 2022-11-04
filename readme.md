@@ -14,6 +14,7 @@
 
 ## Terminal
 
+* [Fig](https://fig.io/)
 * Node.js via [nvm](https://github.com/creationix/nvm)
 
 
