@@ -11,6 +11,7 @@
 * Vagrant
 * Virtual Box
 * VS Code
+* [Blender](https://www.blender.org/)
 
 ## Terminal
 
